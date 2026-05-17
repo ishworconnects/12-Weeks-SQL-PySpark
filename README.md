@@ -1,6 +1,6 @@
 # 12-Weeks SQL PySpark
 
-A hands-on learning repository for building practical SQL and PySpark skills through notebook-based exercises. The project combines SQL case studies with Apache Spark practice so each concept is tied to small, runnable examples.
+A hands on learning repository for building practical SQL and PySpark skills through notebook-based exercises. The project combines SQL case studies with Apache Spark practice so each concept is tied to small, runnable examples.
 
 ## Repository Overview
 
