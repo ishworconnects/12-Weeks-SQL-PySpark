@@ -38,7 +38,7 @@ Recommended workflow:
 
 ## Project Goals
 
-The goal of this repository is to document steady progress through SQL and PySpark practice while building a portfolio of clear, reviewable examples. Each notebook is intentionally small so the core idea is easy to understand, rerun, and expand.
+The goal of this repository is to document my steady progress through SQL and PySpark practice while building a portfolio of clear, reviewable examples. Each notebook is intentionally small so the core idea is easy to understand, rerun, and expand.
 
 ## Status
 
